@@ -5,14 +5,14 @@
 This project is a news application built using Jetpack Compose for the UI, Navigation Compose for handling navigation, and MVI (Model-View-Intent) as the architecture pattern. The application incorporates Room for local data storage, Hilt for dependency injection, and includes testing to validate its functionality. It follows Clean Architecture principles to separate concerns and improve maintainability.
 
 # Features
-## Home Screen:
+### Home Screen:
 
 * Displays a horizontal list of available categories fetched from the API.
 * Shows a vertical list of news articles based on the selected category.
 * Automatically selects the first category as the initial category for news when the app opens.
 * Updates the news list when a new category is selected.
 
-# Article Details Screen:
+### Article Details Screen:
 
 * Provides detailed information about a selected article.
 * Allows the user to share the article link with other apps.
