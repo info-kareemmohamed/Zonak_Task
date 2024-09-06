@@ -1,4 +1,4 @@
-# Zonak_Task
+
 # Android News App Task
 
 # Overview
